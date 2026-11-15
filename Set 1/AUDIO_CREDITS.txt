@@ -1,0 +1,36 @@
+BULALAKAW STATION — SET 1 AUDIO CREDITS
+
+Audio selection and preparation: Jargon
+
+Sound effects by Kenney
+Interface Sounds, Digital Audio (including lowDown for AU-03), Impact Sounds and RPG Audio
+https://kenney.nl
+License: CC0 1.0 Universal
+
+Wind — IgnasD
+https://opengameart.org/content/wind
+License: CC0 1.0 Universal
+
+Sci-Fi Doors-Airlock Sound Effect — RyanKingArt
+https://freesound.org/s/607265/
+License: CC0 1.0 Universal
+
+Walkie Talkie Beep — SoundBiterSFX
+https://freesound.org/s/732209/
+Source listing license: CC0 1.0 Universal
+
+Radio Noise 1 — Kresiek The Furry
+https://opengameart.org/node/140843
+License: CC0 1.0 Universal
+
+Space Echo — Centurion_of_war
+https://opengameart.org/content/space-echo
+License: CC0 1.0 Universal
+
+CC0 license information:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Files have been renamed for the game. Wind, door, recall and radio
+static were converted to Ogg. Original creators retain their credits.
+No endorsement by the creators is implied.
+
